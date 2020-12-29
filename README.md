@@ -1,1 +1,1 @@
-This repository contains all my solved assignments and some exercises that I found interesting solving on the web.  I hope you find the solutions satisfactory and if you have a better solution, please share it.  There is always something new to learn. 
+This repository contains solved exercises that will help you to understand the logic of this programming language.  If you have a better way to solve these problems, please share them.  There is always something new to learn. 
